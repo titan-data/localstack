@@ -1,6 +1,6 @@
 # About this Project
 
-Describe the project for users.
+Simple wrapper around `localstack/localstack` that is configured for persistent storage.
 
 ## Contributing
 

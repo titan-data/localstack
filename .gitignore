@@ -1,5 +1,15 @@
 # OS Generated files
 .DS_Store
 
-# Temporary files
-.*.swp
+# IntelliJ files
+/.idea
+
+# Generated files
+target
+bin
+coverage
+releases
+
+# Development files
+/notes
+/.env
